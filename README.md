@@ -8,6 +8,6 @@ python3 coding-challenge.py
 
 
 Valid Input Examples:
-1 + 2
-1/2 - 3/4
-2_34/56 / 5/2
+`1 + 2`
+`1/2 - 3/4`
+`2_34/56 / 5/2`
